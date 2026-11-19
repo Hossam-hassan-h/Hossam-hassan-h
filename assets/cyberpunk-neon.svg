@@ -102,26 +102,26 @@
   </g>
 
   <!-- Chromatic aberration title (3 layers offset) -->
-  <g font-family="'Space Grotesk', 'Neue Haas Grotesk', system-ui, sans-serif" font-size="84" font-weight="900" letter-spacing="-2" text-anchor="middle">
-    <text x="600" y="132" fill="#ff00d9" filter="url(#cn-bigglow)" opacity="0.6">JANE_DOE</text>
+  <g font-family="'Space Grotesk', 'Neue Haas Grotesk', system-ui, sans-serif" font-size="64" font-weight="900" letter-spacing="-2" text-anchor="middle">
+    <text x="600" y="132" fill="#ff00d9" filter="url(#cn-bigglow)" opacity="0.6">HOSSAM_HASSAN_HEFNI</text>
     <text x="600" y="132" fill="#ff00d9" opacity="0.85">
       <animateTransform attributeName="transform" type="translate" values="-3 1;-2 -1;-3 1" dur="0.18s" repeatCount="indefinite"/>
-      JANE_DOE
+      HOSSAM_HASSAN_HEFNI
     </text>
     <text x="600" y="132" fill="#00ffe7" opacity="0.85">
       <animateTransform attributeName="transform" type="translate" values="3 -1;2 1;3 -1" dur="0.18s" repeatCount="indefinite"/>
-      JANE_DOE
+      HOSSAM_HASSAN_HEFNI
     </text>
-    <text x="600" y="132" fill="#fff8e7">JANE_DOE</text>
+    <text x="600" y="132" fill="#fff8e7">HOSSAM_HASSAN_HEFNI</text>
   </g>
 
-  <text x="600" y="166" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ffe7" letter-spacing="8">// FRONTEND.ENGINEER.exe</text>
+  <text x="600" y="166" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ffe7" letter-spacing="8">// FULL_STACK.DEVELOPER.exe</text>
 
   <!-- Top corner stamps -->
   <g font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="3">
     <g transform="translate(60,52)" fill="#ff00d9">
       <line x1="0" y1="-10" x2="20" y2="-10" stroke="#ff00d9" stroke-width="0.6"/>
-      <text x="28" y="-6">TOKYO.SECTOR_07 · 22:14</text>
+      <text x="28" y="-6">CAIRO.EGYPT</text>
     </g>
     <g transform="translate(1140,52)" fill="#00ffe7" text-anchor="end">
       <line x1="-20" y1="-10" x2="0" y2="-10" stroke="#00ffe7" stroke-width="0.6"/>
@@ -134,8 +134,8 @@
     <circle cx="6" cy="-3" r="3.5" fill="#ff00d9">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="20" y="0">JACKED IN · NEURAL UPLINK STABLE · UPTIME 2,184d</text>
+    <text x="20" y="0">JACKED IN · NEURAL UPLINK STABLE</text>
   </g>
 
-  <text x="1140" y="396" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ff00d9" letter-spacing="3">[ react ] [ webgl ] [ rust ] [ shaders ]</text>
+  <text x="1140" y="396" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ff00d9" letter-spacing="3">[ react ] [ node.js ] [ nestjs ]</text>
 </svg>
