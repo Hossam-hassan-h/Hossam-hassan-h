@@ -12,7 +12,7 @@
 
 # 💬 About Me
 
-<img align="right" width="380" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"/>
+<img align="right" width="380" src="./assets/93195.gif"/>
 
 ### 👋 Hi there!
 
@@ -31,6 +31,7 @@ I love learning new technologies, solving challenging problems, and continuously
 - ⚡ Backend Performance Optimization
 
 ---
+
 
 # 🎯 Interests
 
@@ -51,6 +52,10 @@ I love learning new technologies, solving challenging problems, and continuously
 - ☕ Coffee & Coding
 
 ---
+
+
+<img align="right" width="380" src="./assets/13626.gif"/>
+
 
 # 👨‍💻 Tech Stack
 
