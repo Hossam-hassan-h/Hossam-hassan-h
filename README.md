@@ -31,6 +31,7 @@ I love learning new technologies, solving challenging problems, and continuously
 - ⚡ Backend Performance Optimization
 
 ---
+<img align="right" width="380" src="./assets/13626.gif"/>
 
 
 # 🎯 Interests
@@ -41,7 +42,7 @@ I love learning new technologies, solving challenging problems, and continuously
 - 📚 Learning New Technologies
 - 🧠 Problem Solving
 
----
+
 
 # 🎮 Hobbies
 
@@ -54,7 +55,6 @@ I love learning new technologies, solving challenging problems, and continuously
 ---
 
 
-<img align="right" width="380" src="./assets/13626.gif"/>
 
 
 # 👨‍💻 Tech Stack
