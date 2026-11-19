@@ -189,12 +189,54 @@ If you'd like to collaborate on a project, discuss software engineering, or just
 </div>
 
 ---
+---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hossam-hassan-h&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hossam-hassan-h&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🏢 Sanda - Flexible Work Marketplace
+
+A platform connecting workers with businesses for flexible shifts.
+Built with React, Node.js, Express, MongoDB, JWT authentication, Socket.IO, and QR attendance system.
+
+<a href="https://github.com/Hossam-hassan-h">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 📋 Projectly - Project Management System
+
+A full-stack project management platform with workspaces, projects, tasks, roles, permissions, and team collaboration.
+
+Built with React, Node.js, Express, MongoDB, Redux Toolkit, and Tailwind CSS.
+
+<a href="https://github.com/Hossam-hassan-h">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🍎 Sooq Kasem - E-Commerce Platform
+
+An online store for selling products with authentication, cart management, order handling, and admin control.
+
+Built with Next.js, Node.js, Express, and MongoDB.
+
+<a href="https://github.com/Hossam-hassan-h">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -204,18 +246,17 @@ If you'd like to collaborate on a project, discuss software engineering, or just
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Hossam-hassan-h&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Hossam-hassan-h&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💡 Favorite Quote
+# 📊 GitHub Activity
 
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossam-hassan-h&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -225,7 +266,7 @@ If you'd like to collaborate on a project, discuss software engineering, or just
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+Feel free to explore my repositories and connect with me.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
